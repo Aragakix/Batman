@@ -2,4 +2,4 @@
 
 print("Olá Python no git")
 
-print("Estou aprendendo GIT")
+print("Estou aprendendo GIT2")
